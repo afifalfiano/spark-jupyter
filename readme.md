@@ -1,0 +1,2 @@
+## How to use
+If you want to try this files, just create container from this image [https://hub.docker.com/r/afifalfiano/apache-spark-jupyter](https://hub.docker.com/r/afifalfiano/apache-spark-jupyter) and publish on port 8080 and 8889.
